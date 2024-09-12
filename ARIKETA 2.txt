@@ -1,0 +1,8 @@
+ARIKETA 2
+
+cd path\to\gitfacilito
+git init
+git remote add origin https://github.com/tu-usuario/ariketa2.git
+git add .
+git commit -m "Subiendo carpeta gitfacilito"
+git push -u origin master
